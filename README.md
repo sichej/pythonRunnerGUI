@@ -11,4 +11,4 @@ But now my dear Hackers nobody will stop us from using our dreamed and loved GUI
 
 ## How to use it
 
-Just insert the file path inside the textBox and press the Big Green Button ```RUN``` and look at the output inside the other textBox.
+Just insert the file path inside the textBox and press the Big Button ```RUN``` and look at the output inside the other textBox.
